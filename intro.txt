@@ -1,3 +1,0 @@
-hello world
-cdac
-hi python i am shubham badgire
